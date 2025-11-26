@@ -1,0 +1,28 @@
+{
+  "personal": {
+    "name": "Otávio Lourenço",
+    "email": "email@teste.com",
+    "phone": "11 91234-5678",
+    "consultancyType": "Individual",
+    "personType": "cpf",
+    "document": "12345678910",
+    "discoveryChannels": ["Instagram", "Udemy", "Indicação de Amigo"],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "techs": ["Cypress", "Selenium", "Robot Framework"],
+    "terms": true
+  },
+  "company": {
+    "name": "Otávio Lourenço",
+    "email": "email@teste.com",
+    "phone": "11 91234-5678",
+    "consultancyType": "In Company",
+    "personType": "cnpj",
+    "document": "33810761000168",
+    "discoveryChannels": ["Instagram", "Udemy", "LinkedIn"],
+    "file": "./cypress/fixtures/document.pdf",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "techs": ["Cypress"],
+    "terms": true
+  }
+}
